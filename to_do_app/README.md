@@ -1,6 +1,7 @@
 # to_do_app
 
-A new Flutter project.
+Hello Git family,
+This time I have created a To Do List using flutter and dart.This app has functionalities like adding new task, removing task, if the task is done then is has that crossing out feature too. To save the previous data while opening app after using the app I have used Hive database. 
 
 ## Getting Started
 
